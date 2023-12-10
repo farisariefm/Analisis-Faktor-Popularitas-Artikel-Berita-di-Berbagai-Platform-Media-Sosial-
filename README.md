@@ -3,7 +3,7 @@
 ## Objectives
 
 The project aims to analyze the factors influencing news article popularity on various social media platforms (focused on LinkedIn, GooglePlus, and Facebook). 
-It intends to provide valuable insights into the factors affecting article popularity, facilitating better strategies for news publication to be implemented starting in 2024.
+It intends to provide valuable insights into the factors affecting article popularity, facilitating better strategies for news publication.
 
 ## Problem Statements
 
