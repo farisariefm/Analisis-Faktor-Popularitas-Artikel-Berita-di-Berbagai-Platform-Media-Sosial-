@@ -1,4 +1,4 @@
-# Analyzing News Article Popularity on Social Media Platforms
+# Analysis of Key Factors Driving the Popularity of News Articles Across Varied Social Media Platforms
 
 ## Objectives
 
