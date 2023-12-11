@@ -2,15 +2,17 @@
 
 ## Objectives
 
-The project aims to analyze the factors influencing news article popularity on various social media platforms (focused on LinkedIn, GooglePlus, and Facebook). 
-It intends to provide valuable insights into the factors affecting article popularity, facilitating better strategies for news publication.
+The project aims to analyze the factors influencing news article popularity on various social media platforms (focused on LinkedIn, GooglePlus, and Facebook). It intends to provide valuable insights into the factors affecting article popularity, facilitating better strategies for news publication.
 
 ## Problem Statements
 
+By analyzing the factors influencing the popularity of news articles across various social media platforms, this project aims to enhance the strategies for news article publication.
+
 ### Overview
 
-The project focuses on analyzing news popularity on different social media platforms based on metrics such as Sentiment Title, Sentiment Headline, publication timing, 
-and headline length. The analysis utilizes data analysis techniques to measure the correlation and impact of these factors on article popularity.
+The project focuses on analyzing news popularity on different social media platforms based on metrics such as Sentiment Title, Sentiment Headline, publication timing, and headline length. The analysis utilizes data analysis techniques to measure the correlation and impact of these factors on article popularity. 
+
+Dataset Source : [Kaggle] (https://www.kaggle.com/datasets/nikhiljohnk/news-popularity-in-multiple-social-media-platforms)
 
 ### Key Questions
 
@@ -31,8 +33,9 @@ and headline length. The analysis utilizes data analysis techniques to measure t
 
 ### Findings and Conclusion
 
-- Sentiment in titles and headlines doesn't notably affect article popularity.
-- The timing of publication and choice of social media platform significantly impact article popularity.
+- Moderate headline lengths (17-29 words) appears pivotal, as the findings highlight how particular headline lengths might boost news popularity
+- Neutral Sentiments (-0.25 to 0.25)  in title and headline of news articles notably affect article popularity.
+- The popularity of an article is also significantly influenced by both the timing of its publication and the chosen social media platform.
 - Each platform has its peak time, crucial for publication strategy to enhance audience engagement.
 - Audience preferences across platforms and content types impact article popularity, necessitating tailored publication strategies.
 
