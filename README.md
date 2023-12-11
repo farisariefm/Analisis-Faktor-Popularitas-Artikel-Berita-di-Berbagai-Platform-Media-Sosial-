@@ -12,7 +12,7 @@ By analyzing the factors influencing the popularity of news articles across vari
 
 The project focuses on analyzing news popularity on different social media platforms based on metrics such as Sentiment Title, Sentiment Headline, publication timing, and headline length. The analysis utilizes data analysis techniques to measure the correlation and impact of these factors on article popularity. 
 
-Dataset Source : [Kaggle] (https://www.kaggle.com/datasets/nikhiljohnk/news-popularity-in-multiple-social-media-platforms)
+Dataset Source : [Kaggle](https://www.kaggle.com/datasets/nikhiljohnk/news-popularity-in-multiple-social-media-platforms)
 
 ### Key Questions
 
